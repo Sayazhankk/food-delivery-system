@@ -2,6 +2,7 @@
 
 Course project for Basics of Information Systems (KBTU).
 Stack: Python 3.12+, Django, PostgreSQL 16 (Docker), Django templates + Bootstrap 5.
+**Requires Python 3.12 or newer** (check with `python3 --version`).
 
 ## Run locally
 
