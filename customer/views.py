@@ -27,3 +27,10 @@ def checkout(request):
 
 def order_status(request, order_id):
     return render(request, "customer/order_status.html", {"order_id": order_id})
+
+def favorites(request):
+    return render(request, "customer/favorites.html")
+
+
+def profile(request):
+    return render(request, "customer/profile.html")
