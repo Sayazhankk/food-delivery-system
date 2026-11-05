@@ -24,14 +24,14 @@ Open http://127.0.0.1:8000/ (menu) or http://127.0.0.1:8000/staff/orders/ (staff
 
 ## Project structure
 
-| Folder | What it contains | Owner |
-|---|---|---|
+| Folder | What it contains | Owner   |
+|---|---|---------|
 | `core/` | Data models (Customer, Food_Item, Food_Order, Order_Item) | backend |
-| `customer/` | Client pages: menu, cart, checkout, order status | Sofiya |
-| `staff/` | Staff pages: orders, order details, menu availability | Dilnaz |
-| `templates/` | `base.html` (shared layout and language switcher) + page templates | shared |
-| `static/vendor/bootstrap/` | Bootstrap stored locally, so the demo works offline | shared |
-| `locale/` | Translation files (English + Russian) | shared |
+| `customer/` | Client pages: menu, cart, checkout, order status | Dilnaz  |
+| `staff/` | Staff pages: orders, order details, menu availability | Sofiya  |
+| `templates/` | `base.html` (shared layout and language switcher) + page templates | shared  |
+| `static/vendor/bootstrap/` | Bootstrap stored locally, so the demo works offline | shared  |
+| `locale/` | Translation files (English + Russian) | shared  |
 
 ## Team rules
 
